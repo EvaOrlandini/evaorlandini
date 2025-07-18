@@ -1,4 +1,4 @@
-## Full-Stack Developer | Front-End Specialist
+## Front-End Developer
 
 Certified full-stack developer with a passion for crafting sleek and efficient web applications. I like to create intuitive, responsive, and dynamic UIs.
 
